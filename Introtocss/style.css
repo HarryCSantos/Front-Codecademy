@@ -58,3 +58,9 @@ body {
     text-decoration: none; 
     transition: background .5s; 
   }
+
+  .nav { 
+    background: #000;
+    height: 80px; 
+    width: 100%;
+  }
