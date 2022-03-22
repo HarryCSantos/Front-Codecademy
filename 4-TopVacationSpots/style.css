@@ -35,5 +35,5 @@ a[href*='seoul'] {
 }
 
 a:hover {
-    
+    color:darkorange;
 }
