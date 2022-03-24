@@ -1,4 +1,4 @@
- *{
+* {
     border: 1px solid red;
   }
   
@@ -23,7 +23,7 @@
   }
   
   a[href*='florence'] {
-    color: rgba(238, 19, 12, 0.959);
+    color: lightgreen;
   }
   
   a[href*='beijing'] {
@@ -35,7 +35,7 @@
   }
   
   a:hover {
-    color:rgb(28, 13, 238);
+    color:darkorange;
   }
   
   .heading-background {
@@ -43,7 +43,7 @@
   }
   
   #publish-time {
-    color: rgb(5, 0, 0);
+    color: lightgray;
   }
   
   h5 {
@@ -57,12 +57,13 @@
   #author-id {
     color: cornflowerblue;
   }
-
+  
   h2.destination {
     font-family: Tahoma;
   }
   
   .description h5 {
-      color: blueviolet;
+    color: blueviolet;
   }
+  
   
