@@ -23,7 +23,7 @@
   }
   
   a[href*='florence'] {
-    color: lightgreen;
+    color: rgba(238, 19, 12, 0.959);
   }
   
   a[href*='beijing'] {
