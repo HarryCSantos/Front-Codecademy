@@ -1,63 +1,65 @@
 * {
-    border: 1px solid rgb(255, 0, 34);
-}
-
-p {
-    color: rgb(0, 128, 128);
-}
-
-h1 {
-    color: rgb(0, 19, 128);
-}
-
-.title {
-    color: rgb(66, 0, 128);
-}
-
-.uppercase {
+    border: 1px solid red;
+  }
+  
+  p {
+    color: green;
+  }
+  
+  h1 {
+    color: maroon;
+  }
+  
+  .title {
+    color: teal;
+  }
+  
+  .uppercase {
     text-transform: uppercase;
-}
-
-#article-title {
+  }
+  
+  #article-title {
     font-family: cursive;
-}
-
-a[href*='florence'] {
+  }
+  
+  a[href*='florence'] {
     color: lightgreen;
-}
-
-a[href*='beijing'] {
+  }
+  
+  a[href*='beijing'] {
     color: lightblue;
-}
-
-a[href*='seoul'] {
+  }
+  
+  a[href*='seoul'] {
     color: lightpink;
-}
-
-a:hover {
+  }
+  
+  a:hover {
     color:darkorange;
-}
-
-.heading-background {
+  }
+  
+  .heading-background {
     background-color: aqua;
-}
-
-#publish-time {
-    color: rgb(211, 211, 211);
-}
-
-h5 {
-    color: rgb(255, 166, 0);
-}
-
-.author-class {
-    color: rgb(192, 225, 255);
-}
-
-#author-id {
+  }
+  
+  #publish-time {
+    color: lightgray;
+  }
+  
+  h5 {
+    color: yellow;
+  }
+  
+  .author-class {
+    color: pink;
+  }
+  
+  #author-id {
     color: cornflowerblue;
-}
-
-h2.destination {
+  }
+  
+  h2.destination {
     font-family: Tahoma;
-}
+  }
+  
+  
