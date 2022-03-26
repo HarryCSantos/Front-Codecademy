@@ -45,3 +45,14 @@ p {
     top: 80%;
     width: 60%;
 }
+
+.content {
+    padding: 40px;
+}
+
+.image {
+    background-image: url("https://content.codecademy.com/courses/web-101/unit-4/htmlcss1-img_soccer.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+}
