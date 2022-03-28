@@ -34,7 +34,7 @@ body {
     top: 50px;
     width: 400px;
     margin: 0 auto;
-    border: solid white width:3px;
+    border: solid white width 3px;
   }
   
   #main {
