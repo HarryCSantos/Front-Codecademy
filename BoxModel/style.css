@@ -76,6 +76,7 @@ body {
     line-height: 48px;
     margin-top: 60px;
     padding: 10px 20px;
+    min-width: 200px;
   
   }
   
@@ -115,4 +116,4 @@ body {
     background: white;
     border: 1px solid red;
     color: red;
-  }
+  }d
