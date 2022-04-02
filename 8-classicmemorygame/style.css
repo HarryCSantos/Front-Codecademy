@@ -14,7 +14,7 @@ body {
   }
   
   h2 {
-    color: #AAA;
+    color: rgb(70, 233, 89);
     font-family: 'Yantramanav', sans-serif;
     font-size: 16px;
     font-weight: 100;
@@ -61,7 +61,7 @@ body {
   
   .card {
     
-    border: 2px solid #9DD1F1;
+    border: 2px solid #050451;
     display: inline-block;
     height: 200px;
     margin-top: 4px;
