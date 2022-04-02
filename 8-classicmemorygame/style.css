@@ -116,6 +116,6 @@ p {
 
 .share a:hover {
   background: white;
-  border: 1px solid red;
+  border: 1px solid rgb(0, 255, 110);
   color: red;
 }
