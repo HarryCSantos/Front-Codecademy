@@ -126,3 +126,7 @@ p {
   height: 125px;
 }
 
+.headline {
+  width: 300px;
+  margin: 0 auto;
+}
