@@ -119,3 +119,7 @@ p {
   border: 1px solid rgb(0, 255, 110);
   color: red;
 }
+
+.box {
+  border: 1px solid black;
+}
