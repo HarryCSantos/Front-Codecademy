@@ -19,6 +19,7 @@ body {
   
   nav img {
     display: block;
+    width: 180px;
   }
   
   nav span {
