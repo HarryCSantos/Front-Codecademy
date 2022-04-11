@@ -61,6 +61,8 @@ body {
     font-weight: 300;
     line-height: 40px;
     width: 68%;
+    padding: 20px;
+    margin: 0px auto;
   }
   
   /* Content Body */
