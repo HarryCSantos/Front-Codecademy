@@ -18,3 +18,7 @@ h2
     color: blue;
     font-size: bold;
 }
+
+p {
+    font-family: Helvetica;
+}
