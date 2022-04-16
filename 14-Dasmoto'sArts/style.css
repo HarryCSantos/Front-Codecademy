@@ -13,3 +13,8 @@ h2
     font-size: 32px;
     color: white;
 }
+
+.price {
+    color: blue;
+    font-size: bold;
+}
