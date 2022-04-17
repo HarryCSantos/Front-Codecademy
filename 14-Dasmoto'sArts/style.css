@@ -22,3 +22,12 @@ h1
 p {
     font-family: Helvetica;
 }
+
+#frame {
+    background-color: lightcoral;
+}
+
+.item h2 {
+    color: white;
+    font-size: 32px;
+}
