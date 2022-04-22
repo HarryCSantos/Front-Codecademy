@@ -7,5 +7,5 @@ body {
     /* FF3.6-15 */
     background: -webkit-linear-gradient(45deg, #F7F7F7, #EAE0D5 100%);
     /* Chrome10-25, Safari5.1-6 */
-    
+    background: linear-gradient(45 deg, #F7F7F7 0%, #EAE0D5 100%);
 }
