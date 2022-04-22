@@ -47,3 +47,12 @@ body {
     color: #FFFFFF;
     text-align: left;
 }
+
+/* Roast types */
+.green {
+    background-color: darkseagreen;
+}
+
+.light {
+    background-color: sienna;
+}
