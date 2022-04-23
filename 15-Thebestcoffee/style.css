@@ -103,4 +103,12 @@ h4 {
     font-size: 28px;
     font-weight: 700;
     line-height: .2em;
+    font-weight: 300;
+}
+
+/* Page elements */
+ul {
+    margin: 0 auto;
+    padding: 0;
+    width: 75%;
 }
