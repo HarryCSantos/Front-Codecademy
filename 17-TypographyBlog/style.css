@@ -45,7 +45,6 @@ html {
     background-color: #fff;
     font-size: 14px;
     font-weight: 900;
-  
   }
   
   .header li {
@@ -74,7 +73,6 @@ html {
     border-bottom: 1px solid #fff;
     color: #ffffff;
     font-weight: lighter;
-  
   }
   
   
@@ -95,7 +93,8 @@ html {
   .font-card .creator {
     padding: 10px 20px;
     font-size: 16px;
-    
+    font-style: italic;
+  
   }
   
   .sample {
