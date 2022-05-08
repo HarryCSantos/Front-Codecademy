@@ -1,41 +1,52 @@
-body {
-    background-color: DarkOrange;
-  }
-  h1 {
+h1 {
+    color: Black;
     text-align: center;
-    font-family: "Lucida Console";
   }
+  
+  h2 {
+    color: Maroon;
+    text-align: center;
+  }
+  
+  body, title {
+    font-family: Candara;
+  }
+  
+  .tag {
+    background-color: PapayaWhip;
+  }
+  
+  body {
+    background-image:url(https://images.unsplash.com/photo-1519750783826-e2420f4d687f?ixlib=rb-1.2.1&w=1000&q=80);
+    background-size: cover;
+  }
+  
   table {
-    text-align: center;
-    border: 2px solid grey;
     border-collapse: collapse;
-    background-color: PowderBlue;
-    color: black;
-    font-size: 20px;
+    border: 2px solid black;
+    width: 90%;
   }
-  th, td {
-    border: 2px solid green;
-  }
+  
   th {
-    background-color: green;
-    color: DarkGrey;
-    font-size: 20px;
-    font-family: Georgia
+    background-color: rgba(205, 92, 92, 0.6);
+    border: 1px solid black;
   }
-  .itali{
-    font-style: italic;
+  
+  tr {
+    border: 1px solid black;
   }
-  span{
-    font-weight: bold;
-    font-size: 22px;
-    color:red;
+  
+  td {
+    border: 1px solid gray;
+    padding: 4px;
   }
-  .foot {
-    font-size: 20px;
-    font-family: Georgia;
-    color: blue;
+  
+  tr, td {
     text-align: center;
+    background-color: rgba(255, 255, 255, 0.3);
   }
-  .continue {
-    text-align: right;
+  
+  footer {
+    font-style: italic;
+    letter-spacing: -0.06em;
   }
